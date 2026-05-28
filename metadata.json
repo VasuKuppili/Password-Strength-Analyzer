@@ -1,0 +1,6 @@
+{
+  "name": "Password Strength Analyzer",
+  "description": "An interactive, full-stack password analyzer with real-time strength assessment, entropy calculation, common password dictionary checks, secure bcrypt-based account storage, and password history reuse prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
